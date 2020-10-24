@@ -7,16 +7,16 @@ This repository will hold the work produced from codeacademy's data science path
 Codeacademy's content is composed of written articles, documents, videos, quizzes, and coding segments. The written articles and videos will not be included in this repository, but all coding segments will be included as best as is possible given the unique proprietary coding enviroment that codeacademy students use. Coding segments may be found in both lessons and articles at times, and any code that is produced will be saved to this repository in some fashion.  
 
 1. Welcome to the Data Scientist Career Path
-    * Article - Welcome to the Data Scientist Career Path 
-    * Article - Additional Resources
+    * Article - Welcome to the Data Scientist Career Path [COMPLETE]
+    * Article - Additional Resources [COMPLETE]
 2. Getting Started with Data Science
-    * Article - Introduction: Getting Started with Data Science
-    * Lesson - Introduction to Data Science
-    * Lesson - The Data Science Process
-    * Article - Data Science Applications 
-    * Article - Review: Getting Started with Data Science
+    * Article - Introduction: Getting Started with Data Science [COMPLETE]
+    * Lesson - Introduction to Data Science [COMPLETE]
+    * Lesson - The Data Science Process [COMPLETE]
+    * Article - Data Science Applications [COMPLETE]
+    * Article - Review: Getting Started with Data Science [COMPLETE]
 3. Python Fundamentals
-    * Article - Introduction: Python Fundamentals
+    * Article - Introduction: Python Fundamentals [COMPLETE]
     * Lesson - Learn Python: Syntax
     * Quiz - Learn Python: Syntax
     * Docs - Built-in Types | Python
@@ -336,5 +336,3 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Article - Review: Additional SQL
 20. Data Scientists Final Portfolio Project
     * Project - Data Scientist Final Portfolio Project
-
-
