@@ -31,7 +31,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Quiz - Control Flow [COMPLETE]
     * Article - Python Code Challenges: Control Flow [COMPLETE]
     * Article - Advanced Python Code Challenges: Control Flow [COMPLETE]
-    * Project - Python Control Flow: Medical Insurance Project
+    * Project - Python Control Flow: Medical Insurance Project [COMPLETE]
     * Article - Command Line Interface Setup
     * Article - Introducing Jupyter Notebook
     * Article - Setting up Jupyter Notebook
