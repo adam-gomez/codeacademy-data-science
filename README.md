@@ -21,16 +21,16 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Quiz - Learn Python: Syntax [COMPLETE]
     * Docs - Built-in Types | Python
     * Project - Python Syntax: Medical Insurance Project [COMPLETE]
-    * Lesson - Introduction to Functions
-    * Quiz - Introduction to Functions
-    * Article - Python Code Challenges: Functions
-    * Article - Advanced Python Code Challenges: Functions
-    * Project - Python Functions: Medical Insurance Project
-    * Lesson - Control Flow
+    * Lesson - Introduction to Functions [COMPLETE]
+    * Quiz - Introduction to Functions [COMPLETE]
+    * Article - Python Code Challenges: Functions [COMPLETE]
+    * Article - Advanced Python Code Challenges: Functions [COMPLETE]
+    * Project - Python Functions: Medical Insurance Project [COMPLETE]
+    * Lesson - Control Flow [COMPLETE]
     * Docs - Control Flow Tools | Python
-    * Quiz - Control Flow
-    * Article - Python Code Challenges: Control Flow
-    * Article - Advanced Python Code Challenges: Control Flow
+    * Quiz - Control Flow [COMPLETE]
+    * Article - Python Code Challenges: Control Flow [COMPLETE]
+    * Article - Advanced Python Code Challenges: Control Flow [COMPLETE]
     * Project - Python Control Flow: Medical Insurance Project
     * Article - Command Line Interface Setup
     * Article - Introducing Jupyter Notebook
