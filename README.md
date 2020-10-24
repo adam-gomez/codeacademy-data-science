@@ -1,6 +1,6 @@
 # Codeacademy Data Science
 
-This repository will hold the work produced from codeacademy's data science path course. Often, codeacademy uses their unique website to pull resources directly into their browser environment, which means that the code in this repository may not be able to run because of the lack of access to these proprietary resources. The code in this repository works within the codeacademy coding environment. 
+This repository will hold the work produced from Codeacademy's data science path course. Often, codeacademy uses their unique website to pull resources directly into their browser environment, which means that the code in this repository may not be able to run because of the lack of access to these proprietary resources. The code in this repository works within the codeacademy coding environment. Often times the code will seem random and non-sensical. This is because the code that is written is answering a specific question provided by the Codeacademy team. Furthermore, not all of the code written is created by me. Some initial code may be provided as a partial solution to a given question and the user is expected to add the code required to produce the requested output. There is no attempt made to distinguish code provided by Codeacademy and code that I produce, but generally, the vast majority of the code recorded in this repository is written by me. 
 
 ## Sections
 
@@ -17,10 +17,10 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Article - Review: Getting Started with Data Science [COMPLETE]
 3. Python Fundamentals
     * Article - Introduction: Python Fundamentals [COMPLETE]
-    * Lesson - Learn Python: Syntax
-    * Quiz - Learn Python: Syntax
+    * Lesson - Learn Python: Syntax [COMPLETE]
+    * Quiz - Learn Python: Syntax [COMPLETE]
     * Docs - Built-in Types | Python
-    * Project - Python Syntax: Medical Insurance Project
+    * Project - Python Syntax: Medical Insurance Project [COMPLETE]
     * Lesson - Introduction to Functions
     * Quiz - Introduction to Functions
     * Article - Python Code Challenges: Functions
