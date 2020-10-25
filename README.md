@@ -55,12 +55,12 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Quiz - Loops in Python [COMPLETE]
     * Article - List Comprehensions [COMPLETE]
     * Lesson - List Comprehension - Code Challenge [COMPLETE]
-    * Project - Python Loops: Medical Insurance Project
-    * Lesson - Introduction to Strings
-    * Quiz - Introduction to Strings: Quiz
-    * Lesson - String Methods
+    * Project - Python Loops: Medical Insurance Project [COMPLETE]
+    * Lesson - Introduction to Strings [COMPLETE]
+    * Quiz - Introduction to Strings: Quiz [COMPLETE]
+    * Lesson - String Methods [COMPLETE]
     * Docs - Common String Operations | Python
-    * Quiz - String Methods: Quiz
+    * Quiz - String Methods: Quiz [COMPLETE]
     * Lesson - Code Challenge: String Methods
     * Project - Python Strings: Medical Insurance Project
     * Lesson - Creating Dictionaries
