@@ -48,13 +48,13 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Article - Python Code Challenges: Lists [COMPLETE]
     * Article - Advanced Python Code Challenges: Lists [COMPLETE]
     * Project - Working with Python Lists: Medical Insurance Project [COMPLETE]
-    * Video - Learn Python: Tuples
-    * Project - Frida Kahlo Retrospective
-    * Lesson - Loops
+    * Video - Learn Python: Tuples [COMPLETE]
+    * Project - Frida Kahlo Retrospective [COMPLETE]
+    * Lesson - Loops [COMPLETE]
     * Docs - Python Looping Techniques | Python
-    * Quiz - Loops in Python
-    * Article - List Comprehensions
-    * Lesson - List Comprehension - Code Challenge
+    * Quiz - Loops in Python [COMPLETE]
+    * Article - List Comprehensions [COMPLETE]
+    * Lesson - List Comprehension - Code Challenge [COMPLETE]
     * Project - Python Loops: Medical Insurance Project
     * Lesson - Introduction to Strings
     * Quiz - Introduction to Strings: Quiz
