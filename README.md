@@ -43,11 +43,11 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Docs - Sequence Types | Python
     * Quiz - Creating Python Lists [COMPLETE]
     * Project - Python Lists: Medical Insurance Project [COMPLETE]
-    * Lesson - Working with lists in Python
-    * Quiz - Working with Lists in Python
-    * Article - Python Code Challenges: Lists
-    * Article - Advanced Python Code Challenges: Lists
-    * Project - Working with Python Lists: Medical Insurance Project
+    * Lesson - Working with lists in Python [COMPLETE]
+    * Quiz - Working with Lists in Python [COMPLETE]
+    * Article - Python Code Challenges: Lists [COMPLETE]
+    * Article - Advanced Python Code Challenges: Lists [COMPLETE]
+    * Project - Working with Python Lists: Medical Insurance Project [COMPLETE]
     * Video - Learn Python: Tuples
     * Project - Frida Kahlo Retrospective
     * Lesson - Loops
