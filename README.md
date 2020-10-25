@@ -32,17 +32,17 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Article - Python Code Challenges: Control Flow [COMPLETE]
     * Article - Advanced Python Code Challenges: Control Flow [COMPLETE]
     * Project - Python Control Flow: Medical Insurance Project [COMPLETE]
-    * Article - Command Line Interface Setup
-    * Article - Introducing Jupyter Notebook
-    * Article - Setting up Jupyter Notebook
-    * Article - Getting Started with Jupyter
-    * Article - Getting More out of Jupyter Notebook
+    * Article - Command Line Interface Setup [COMPLETE]
+    * Article - Introducing Jupyter Notebook [COMPLETE]
+    * Article - Setting up Jupyter Notebook [COMPLETE]
+    * Article - Getting Started with Jupyter [COMPLETE]
+    * Article - Getting More out of Jupyter Notebook [COMPLETE]
     * Docs - Jupyter Notebook
-    * Article - Getting Started with Git and GitHub Desktop
-    * Lesson - Creating and Modifying a List in Python
+    * Article - Getting Started with Git and GitHub Desktop [COMPLETE]
+    * Lesson - Creating and Modifying a List in Python [COMPLETE]
     * Docs - Sequence Types | Python
-    * Quiz - Creating Python Lists
-    * Project - Python Lists: Medical Insurance Project
+    * Quiz - Creating Python Lists [COMPLETE]
+    * Project - Python Lists: Medical Insurance Project [COMPLETE]
     * Lesson - Working with lists in Python
     * Quiz - Working with Lists in Python
     * Article - Python Code Challenges: Lists
