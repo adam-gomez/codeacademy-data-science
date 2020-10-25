@@ -61,7 +61,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Lesson - String Methods [COMPLETE]
     * Docs - Common String Operations | Python
     * Quiz - String Methods: Quiz [COMPLETE]
-    * Lesson - Code Challenge: String Methods
+    * Lesson - Code Challenge: String Methods [COMPLETE]
     * Project - Python Strings: Medical Insurance Project
     * Lesson - Creating Dictionaries
     * Docs - Dictionaries | Python
