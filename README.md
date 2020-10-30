@@ -68,7 +68,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Quiz - Creating Dictionaries [COMPLETE]
     * Lesson - Using Dictionaries [COMPLETE]
     * Quiz - Using Dictionaries [COMPLETE]
-    * Project - Python Dictionaries: Medical Insurance Project
+    * Project - Python Dictionaries: Medical Insurance Project [COMPLETE]
     * Project - Hurricane Analysis
     * Lesson - Learn Python: Classes
     * Quiz - Python Classes
