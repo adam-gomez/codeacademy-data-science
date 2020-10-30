@@ -63,11 +63,11 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Quiz - String Methods: Quiz [COMPLETE]
     * Lesson - Code Challenge: String Methods [COMPLETE]
     * Project - Python Strings: Medical Insurance Project [COMPLETE]
-    * Lesson - Creating Dictionaries
+    * Lesson - Creating Dictionaries [COMPLETE]
     * Docs - Dictionaries | Python
-    * Quiz - Creating Dictionaries
-    * Lesson - Using Dictionaries
-    * Quiz - Using Dictionaries
+    * Quiz - Creating Dictionaries [COMPLETE]
+    * Lesson - Using Dictionaries [COMPLETE]
+    * Quiz - Using Dictionaries [COMPLETE]
     * Project - Python Dictionaries: Medical Insurance Project
     * Project - Hurricane Analysis
     * Lesson - Learn Python: Classes
