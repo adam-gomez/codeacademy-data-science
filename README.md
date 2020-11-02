@@ -70,7 +70,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Quiz - Using Dictionaries [COMPLETE]
     * Project - Python Dictionaries: Medical Insurance Project [COMPLETE]
     * Project - Hurricane Analysis [IN-PROGRESS]
-    * Lesson - Learn Python: Classes
+    * Lesson - Learn Python: Classes [COMPLETE]
     * Quiz - Python Classes
     * Project - Python Classes: Medical Insurance Project
     * Lesson - Modules: Python
@@ -78,7 +78,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Video - Learn Python: Datetimes
     * Video - Learn Python: Pipenv
     * Lesson - Learn Python: Files
-    * Docs - Reading and Writing Files | Pythn
+    * Docs - Reading and Writing Files | Python
     * Quiz - Python Files
     * Project - Hacking the Fender
     * Project - Reggie's Linear Regression
