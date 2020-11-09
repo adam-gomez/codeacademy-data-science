@@ -73,7 +73,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Lesson - Learn Python: Classes [COMPLETE]
     * Quiz - Python Classes [COMPLETE]
     * Project - Python Classes: Medical Insurance Project [COMPLETE]
-    * Lesson - Modules: Python
+    * Lesson - Modules: Python [COMPLETE]
     * Docs - Modules | Python
     * Video - Learn Python: Datetimes
     * Video - Learn Python: Pipenv
