@@ -71,8 +71,8 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Project - Python Dictionaries: Medical Insurance Project [COMPLETE]
     * Project - Hurricane Analysis [COMPLETE]
     * Lesson - Learn Python: Classes [COMPLETE]
-    * Quiz - Python Classes
-    * Project - Python Classes: Medical Insurance Project
+    * Quiz - Python Classes [COMPLETE]
+    * Project - Python Classes: Medical Insurance Project [COMPLETE]
     * Lesson - Modules: Python
     * Docs - Modules | Python
     * Video - Learn Python: Datetimes
