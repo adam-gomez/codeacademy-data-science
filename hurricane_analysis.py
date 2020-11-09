@@ -58,57 +58,121 @@ def construct_hurricane_dictionary(names, months, years, max_sustained_winds, ar
 hurricane_dictionary = construct_hurricane_dictionary(names, months, years, max_sustained_winds, areas_affected, damages, deaths)
 
 # write your construct hurricane by year dictionary function here:
+def construct_hurricane_dictionary_by_year(dictionary):
+  hurricanes_by_year= {}
+  for hurricane in dictionary:
+      current_year = dictionary[hurricane]['Year']
+      value = dictionary[hurricane]
+      if current_year not in hurricanes_by_year:
+          hurricanes_by_year[current_year] = [value]
+      else:
+          hurricanes_by_year[current_year].append(value)
+  return hurricanes_by_year
 
-
-
-
-
-
+yearly_hurricane_dictionary = construct_hurricane_dictionary_by_year(hurricane_dictionary)
 
 # write your count affected areas function here:
+def count_affected_areas(hurricanes):
+  affected_areas_count = dict()
+  for cane in hurricanes:
+    for area in hurricanes[cane]['Areas Affected']:
+      if area not in affected_areas_count:
+        affected_areas_count[area] = 1
+      else:
+        affected_areas_count[area] += 1
+  return affected_areas_count
 
-
-
-
-
-
+area_counts = count_affected_areas(hurricane_dictionary)
 
 # write your find most affected area function here:
-
-
-
-
-
-
+def find_most_affected(area_counts):
+  highest_count = 0
+  max_area = 'Moon'
+  for area in area_counts:
+    if area_counts[area] > highest_count:
+      highest_count = area_counts[area]
+      max_area = area
+  print(f"The most affected area is {max_area}. It was affected by hurricanes {highest_count} times.")
 
 # write your greatest number of deaths function here:
+def greatest_number_of_deaths(hurricanes):
+  max_mortality_cane = 'Donald Trump'
+  max_mortality = 0
+  for cane in hurricanes:
+    if hurricanes[cane]['Deaths'] > max_mortality:
+      max_mortality = hurricanes[cane]['Deaths']
+      max_mortality_cane = cane
+  return max_mortality_cane, max_mortality
 
-
-
-
-
-
+max_mortality_cane, max_mortality = greatest_number_of_deaths(hurricane_dictionary)
 
 # write your catgeorize by mortality function here:
+mortality_scale = {0: 0,
+                   1: 100,
+                   2: 500,
+                   3: 1000,
+                   4: 10000}
 
+def mortality(hurricane):
+  hurricanes_by_mortality = {0: [], 1: [], 2: [], 3: [], 4: [], 5: []}
+  for cane in hurricane:
+    if hurricane[cane]['Deaths'] > 10000:
+      hurricanes_by_mortality[5].append([hurricane[cane]])
+    elif hurricane[cane]['Deaths'] > 1000:
+      hurricanes_by_mortality[4].append([hurricane[cane]])
+    elif hurricane[cane]['Deaths'] > 500:
+      hurricanes_by_mortality[3].append([hurricane[cane]])
+    elif hurricane[cane]['Deaths'] > 100:
+      hurricanes_by_mortality[2].append([hurricane[cane]])
+    elif hurricane[cane]['Deaths'] > 0:
+      hurricanes_by_mortality[1].append([hurricane[cane]])
+    else:
+      hurricanes_by_mortality[0].append([hurricane[cane]])
+  return hurricanes_by_mortality
 
-
-
-
-
+hurricanes_by_mortality = mortality(hurricane_dictionary)
 
 # write your greatest damage function here:
+def greatest_damage(hurricanes):
+  max_damage_cane = 'Donald Trump'
+  max_damage = 0
+  for cane in hurricanes:
+    if hurricanes[cane]['Damage'] == 'Damages not recorded':
+      continue
+    elif hurricanes[cane]['Damage'] > max_damage:
+      max_damage = hurricanes[cane]['Damage']
+      max_damage_cane = cane
+  return max_damage_cane, max_damage
 
-
-
-
-
-
+max_damage_cane, max_damage = greatest_damage(hurricane_dictionary)
 
 # write your catgeorize by damage function here:
+damage_scale = {0: 0,
+                1: 100000000,
+                2: 1000000000,
+                3: 10000000000,
+                4: 50000000000}
 
+def damages(hurricane):
+  hurricanes_by_damage = {0: [], 1: [], 2: [], 3: [], 4: [], 5: []}
+  for cane in hurricane:
+    if hurricane[cane]['Damage'] == 'Damages not recorded':
+      continue
+    elif hurricane[cane]['Damage'] > 50000000000:
+      hurricanes_by_damage[5].append([hurricane[cane]])
+    elif hurricane[cane]['Damage'] > 10000000000:
+      hurricanes_by_damage[4].append([hurricane[cane]])
+    elif hurricane[cane]['Damage'] > 1000000000:
+      hurricanes_by_damage[3].append([hurricane[cane]])
+    elif hurricane[cane]['Damage'] > 100000000:
+      hurricanes_by_damage[2].append([hurricane[cane]])
+    elif hurricane[cane]['Damage'] > 0:
+      hurricanes_by_damage[1].append([hurricane[cane]])
+    else:
+      hurricanes_by_damage[0].append([hurricane[cane]])
+  return hurricanes_by_damage
 
-
+print(damages(hurricane_dictionary))
 
 
 
