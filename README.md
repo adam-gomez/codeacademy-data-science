@@ -80,7 +80,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Lesson - Learn Python: Files [COMPLETE]
     * Docs - Reading and Writing Files | Python
     * Quiz - Python Files [COMPLETE]
-    * Project - Hacking the Fender
+    * Project - Hacking the Fender [COMPLETE]
     * Project - Reggie's Linear Regression
     * Article - Review: Python Fundamentals
 4. Python Portfolio Project
