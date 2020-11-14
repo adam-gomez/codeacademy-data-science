@@ -77,9 +77,9 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Docs - Modules | Python
     * Video - Learn Python: Datetimes [COMPLETE]
     * Video - Learn Python: Pipenv
-    * Lesson - Learn Python: Files [INCOMPLETE]
+    * Lesson - Learn Python: Files [COMPLETE]
     * Docs - Reading and Writing Files | Python
-    * Quiz - Python Files
+    * Quiz - Python Files [COMPLETE]
     * Project - Hacking the Fender
     * Project - Reggie's Linear Regression
     * Article - Review: Python Fundamentals
