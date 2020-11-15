@@ -81,7 +81,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Docs - Reading and Writing Files | Python
     * Quiz - Python Files [COMPLETE]
     * Project - Hacking the Fender [COMPLETE]
-    * Project - Reggie's Linear Regression
+    * Project - Reggie's Linear Regression [COMPLETE]
     * Article - Review: Python Fundamentals
 4. Python Portfolio Project
     * Project - U.S. Medical Insurance Costs
