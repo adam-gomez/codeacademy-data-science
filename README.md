@@ -76,15 +76,15 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Lesson - Modules: Python [COMPLETE]
     * Docs - Modules | Python
     * Video - Learn Python: Datetimes [COMPLETE]
-    * Video - Learn Python: Pipenv
+    * Video - Learn Python: Pipenv [COMPLETE]
     * Lesson - Learn Python: Files [COMPLETE]
     * Docs - Reading and Writing Files | Python
     * Quiz - Python Files [COMPLETE]
     * Project - Hacking the Fender [COMPLETE]
     * Project - Reggie's Linear Regression [COMPLETE]
-    * Article - Review: Python Fundamentals
+    * Article - Review: Python Fundamentals [COMPLETE]
 4. Python Portfolio Project
-    * Project - U.S. Medical Insurance Costs
+    * Project - U.S. Medical Insurance Costs [IN-PROGRESS]
 5. Data Acquisition (SQL)
     * Article - Introduction: Data Acquisition
     * Article - Intro to Data Acquisition
