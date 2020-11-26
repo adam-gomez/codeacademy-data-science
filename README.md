@@ -86,12 +86,12 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
 4. Python Portfolio Project
     * Project - U.S. Medical Insurance Costs [COMPLETE]
 5. Data Acquisition (SQL)
-    * Article - Introduction: Data Acquisition
-    * Article - Intro to Data Acquisition
+    * Article - Introduction: Data Acquisition [COMPLETE]
+    * Article - Intro to Data Acquisition [COME]
     * Article - How to build your own dataset for Data Science projects
-    * Article - Relational Databases for Data Science/Analysis
-    * Lesson - Manipulation
-    * Quiz - Manipulation 
+    * Article - Relational Databases for Data Science/Analysis [COMPLETE]
+    * Lesson - Manipulation [COMPLETE]
+    * Quiz - Manipulation [COMPLETE]
     * Lesson - Queries
     * Article - List of SQL Commands
     * Quiz - Queries
