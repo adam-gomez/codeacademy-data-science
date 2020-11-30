@@ -96,7 +96,7 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Article - List of SQL Commands [COMPLETE]
     * Quiz - Queries [COMPLETE]
     * Lesson - Code Challenge: Queries [COMPLETE]
-    * Project - New York Restaurants
+    * Project - New York Restaurants [COMPLETE]
     * Article - Python with Databases
     * Project - RPA Fraud Detection
     * Project - RPA Customer Segmentation
