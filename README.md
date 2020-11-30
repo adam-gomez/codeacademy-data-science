@@ -92,10 +92,10 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Article - Relational Databases for Data Science/Analysis [COMPLETE]
     * Lesson - Manipulation [COMPLETE]
     * Quiz - Manipulation [COMPLETE]
-    * Lesson - Queries
-    * Article - List of SQL Commands
-    * Quiz - Queries
-    * Lesson - Code Challenge: Queries
+    * Lesson - Queries [COMPLETE]
+    * Article - List of SQL Commands [COMPLETE]
+    * Quiz - Queries [COMPLETE]
+    * Lesson - Code Challenge: Queries [COMPLETE]
     * Project - New York Restaurants
     * Article - Python with Databases
     * Project - RPA Fraud Detection
