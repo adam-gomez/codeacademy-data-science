@@ -107,8 +107,8 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Article - Review: Data Acquisition
 6. Data Manipulation with Pandas
     * Article - Introduction: Data Manipulation with Pandas
-    * Article - Lambda Functions
-    * Lesson - Lambda Function Code Challenge
+    * Article - Lambda Functions 
+    * Lesson - Lambda Function Code Challenge [COMPLETE]
     * Article - Introduction to NumPy and Pandas
     * Article - NumPy
     * Lesson - Creating, Loading, and Selecting Data with Pandas
