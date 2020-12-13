@@ -106,12 +106,12 @@ Codeacademy's content is composed of written articles, documents, videos, quizze
     * Project - Chocolate Scraping with Beautiful Soup
     * Article - Review: Data Acquisition
 6. Data Manipulation with Pandas
-    * Article - Introduction: Data Manipulation with Pandas
-    * Article - Lambda Functions 
+    * Article - Introduction: Data Manipulation with Pandas [COMPLETE]
+    * Article - Lambda Functions [COMPLETE]
     * Lesson - Lambda Function Code Challenge [COMPLETE]
-    * Article - Introduction to NumPy and Pandas
-    * Article - NumPy
-    * Lesson - Creating, Loading, and Selecting Data with Pandas
+    * Article - Introduction to NumPy and Pandas [COMPLETE]
+    * Article - NumPy 
+    * Lesson - Creating, Loading, and Selecting Data with Pandas [COMPLETE]
     * Lesson - Modifying DataFrames
     * Quiz - Modifying DataFrames
     * Project - Petal Power Inventory
